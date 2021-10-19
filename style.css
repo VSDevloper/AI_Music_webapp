@@ -1,0 +1,31 @@
+.contanier{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    align-items: center;
+    font-style: italic;
+    font-weight: bold;
+    background-color: orange;
+    padding-top: 40px;
+    background-size:cover ;
+}
+.contanier:hover{
+    color: red;
+}
+.play_button{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    align-items: center;  
+    width: 155px;
+    font-size: 25px;
+    padding-right:100% ;
+}
+canvas 
+{
+  border:5px solid white;
+  border-radius:20px;
+  box-shadow: 5px 5px 5px grey;
+}
